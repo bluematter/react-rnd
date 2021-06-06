@@ -1,8 +1,8 @@
 {
-  "name": "react-rnd",
-  "version": "10.10.0",
+  "name": "react-rnd-motionbox",
+  "version": "10.9.0",
   "description": "",
-  "title": "react-rnd",
+  "title": "react-rnd-motionbox",
   "main": "./lib/index.es5.js",
   "module": "./lib/index.js",
   "jsnext:main": "./lib/index.js",
@@ -100,7 +100,7 @@
   },
   "dependencies": {
     "re-resizable": "6.9.0",
-    "react-draggable": "4.4.3",
+    "react-draggable-motionbox": "^4.4.3",
     "tslib": "2.2.0"
   }
 }
