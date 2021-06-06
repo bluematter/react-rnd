@@ -100,7 +100,7 @@
   },
   "dependencies": {
     "re-resizable": "6.9.0",
-    "react-draggable-motionbox": "^4.4.3",
+    "react-draggable-motionbox": "^4.4.5",
     "tslib": "2.2.0"
   }
 }

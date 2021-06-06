@@ -10420,7 +10420,15 @@ react-dom@^16.8.3:
     prop-types "^15.6.2"
     scheduler "^0.18.0"
 
-react-draggable@4.4.3, react-draggable@^4.4.3:
+react-draggable-motionbox@^4.4.5:
+  version "4.4.5"
+  resolved "https://registry.yarnpkg.com/react-draggable-motionbox/-/react-draggable-motionbox-4.4.5.tgz#e9f956e5144e6c1f7863447f3236e8bfda230011"
+  integrity sha512-LK6Zpdn1JphtSDWkem8+70JDfjQzRRO80L5wH5WoLWU3Wb/8u6o5ctr5CxGhb+owZ3hw/SRBjP+Xj9B+cjbD+w==
+  dependencies:
+    classnames "^2.2.5"
+    prop-types "^15.6.0"
+
+react-draggable@^4.4.3:
   version "4.4.3"
   resolved "https://registry.yarnpkg.com/react-draggable/-/react-draggable-4.4.3.tgz#0727f2cae5813e36b0e4962bf11b2f9ef2b406f3"
   integrity sha512-jV4TE59MBuWm7gb6Ns3Q1mxX8Azffb7oTtDtBgFkxRvhDp38YAARmRplrj0+XGkhOJB5XziArX+4HUUABtyZ0w==

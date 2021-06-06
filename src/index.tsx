@@ -1,5 +1,5 @@
 import * as React from "react";
-import { DraggableEventHandler, default as DraggableRoot } from "react-draggable";
+import { DraggableEventHandler, default as DraggableRoot } from "react-draggable-motionbox";
 import { Enable, Resizable, ResizeDirection } from "re-resizable";
 
 // FIXME: https://github.com/mzabriskie/react-draggable/issues/381
